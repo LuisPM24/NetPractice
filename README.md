@@ -58,13 +58,3 @@ Where:
 # Instructions
 
 # Resources
-
-# Level Resolution
-
-## Level 1
-The objectives of this exercise are:
-
-- To connect **my PC** to **my younger brother’s computer**
-- To connect **my Mac** to **my younger sister’s computer**
-
-However, the IP addresses for *Interface A1* and *Interface D1* are incorrect, as **each number in an IP address must be between 0 and 255**. The next step is to configure the computers on the same network. Given that the subnet mask is 255.255.255.0 on both computers, the first three numbers or octets must be the same.
